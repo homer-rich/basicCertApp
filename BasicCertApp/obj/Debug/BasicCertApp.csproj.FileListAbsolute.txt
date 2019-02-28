@@ -1,0 +1,15 @@
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\bin\Debug\BasicCertApp.exe.config
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\bin\Debug\BasicCertApp.exe
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\bin\Debug\BasicCertApp.pdb
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\obj\Debug\BasicCertApp.csprojAssemblyReference.cache
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\obj\Debug\BasicCertApp.Form1.resources
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\obj\Debug\BasicCertApp.Properties.Resources.resources
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\obj\Debug\BasicCertApp.csproj.GenerateResource.cache
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\obj\Debug\BasicCertApp.csproj.CoreCompileInputs.cache
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\obj\Debug\BasicCertApp.csproj.CopyComplete
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\obj\Debug\BasicCertApp.exe
+C:\Users\homes\source\repos\BasicCertApp\BasicCertApp\obj\Debug\BasicCertApp.pdb
