@@ -1,0 +1,8 @@
+AddressBook		Cert Store for other users
+AuthRoot		Third-party CA (Certificate Authorities)
+CertificateAuthority	Intermediate CA
+Disallowed		Revoked Certs
+My			Personal Certs
+Root			Trusted Root CA
+TrustedPeople		Directly trusted people and resources
+TrustedPublisher	Directly trusted publishers
